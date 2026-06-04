@@ -1,5 +1,5 @@
 # RTV Field Image Classifier
-### Caleb Kilemba — Data Scientist Technical Assessment
+### Caleb Kilemba — Data Scientist Technical
 ### Raising The Village · VENN Department
 
 ---
